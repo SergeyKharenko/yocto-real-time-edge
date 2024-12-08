@@ -19,6 +19,7 @@
 
   <remote name="rte"         fetch="https://github.com/nxp-real-time-edge-sw"/>
   <remote name="nxp"         fetch="https://github.com/NXP"/>
+  <remote name="sk"          fetch="https://github.com/SergeyKharenko"/>
 
   <project name="poky" remote="yp" path="sources/poky" revision="f43f393ef0246b7bee6eed8bcf8271cf2b8cdf40" upstream="scarthgap"/>
   <project name="meta-openembedded" remote="oe" path="sources/meta-openembedded" revision="80e01188fa822d87d301ee71973c462d7a865493" upstream="scarthgap"/>

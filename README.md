@@ -22,7 +22,7 @@ $ export PATH=${PATH}:~/bin
 ```
 $ mkdir yocto-real-time-edge
 $ cd yocto-real-time-edge
-$ repo init -u https://github.com/nxp-real-time-edge-sw/yocto-real-time-edge.git -b <branch name> -m <release manifest>
+$ repo init -u https://github.com/SergeyKharenko/yocto-real-time-edge.git -b <branch name> -m <release manifest>
 $ repo sync
 ```
 
@@ -33,7 +33,7 @@ To download the Real-time Edge 3.0 release
 ```
 $ mkdir yocto-real-time-edge
 $ cd yocto-real-time-edge
-$ repo init -u https://github.com/nxp-real-time-edge-sw/yocto-real-time-edge.git -b real-time-edge-scarthgap -m real-time-edge-3.0.0.xml
+$ repo init -u https://github.com/SergeyKharenko/yocto-real-time-edge.git -b real-time-edge-scarthgap -m real-time-edge-3.0.0.xml
 $ repo sync
 ```
 
